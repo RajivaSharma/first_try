@@ -1,0 +1,44 @@
+html{
+    background-color: black;
+}
+.mainheading{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(43, 192, 226);
+    text-align: center;
+}
+#logo{
+    display: block;
+    block-size: 100px;
+    border-style: none;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+hr{
+    border-color: red;
+}
+.subheading1{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+.elec_list{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(95, 234, 49);
+}
+.mech_list{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(95, 234, 49);
+}
+button{
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(95, 234, 49);
+    background-color: rgb(6, 6, 6);
+    text-align: left;
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+button:hover{
+    cursor: pointer;
+    color: red;
+}
